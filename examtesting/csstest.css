@@ -1,0 +1,10 @@
+ul li{
+    color: red;
+}
+
+p+p{
+    color: orange;
+}
+h2 ~ p {
+    color: blue;
+}
